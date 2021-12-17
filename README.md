@@ -4,7 +4,7 @@ Kodluyoruz Front-End eğitimi kapsamında html ile oluşturduğumuz ilk web sayf
 
 ## Installation
 
-projeyi clonelamak için [link](https://github.com/berkpak/kodluyoruzfrontend.git)
+projeyi clonelamak için [link](https://github.com/berkpak/kodluyoruzfrontend-main.git)
 
 ## Usage 
 
